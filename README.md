@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Full Stack Software Developer, credited with 5 years of progressive experience which includes developing and deploying software quickly, work well navigating independently or within a team environment, serve as a life-long-learner and thrive in challenging technical environments
+
+Technical proficiency includes Java, JavaScript, Python, C, SQL, Postgres SQL, Full-Stack Development, React, Django
+
